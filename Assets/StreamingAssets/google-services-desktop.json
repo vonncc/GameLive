@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 1
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "496903637615-vdtce973fkhgo8bil27e7917hlvdfru4.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbKJINJYhHdx4MHxfkWi-A1BdZ7cEXz64"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:496903637615:ios:4e66eca192a3da47bc1b9a", 
+        "android_client_info": {
+          "package_name": "com.abscbn.gameshowlive"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "gameshowbeta.appspot.com", 
+    "project_id": "gameshowbeta", 
+    "firebase_url": "https://gameshowbeta.firebaseio.com", 
+    "project_number": "496903637615"
+  }
+}
